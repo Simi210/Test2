@@ -14,6 +14,6 @@ public class Exercise1 {
 	      System.out.println("Exception: " + e);
 	    }
 
-	    System.out.println("You can't divide a number by zero.");
+	    System.out.println("Division by zero is not possible");
 	  }
 }
