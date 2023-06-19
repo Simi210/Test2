@@ -10,7 +10,8 @@ public class CreateArrayList {
 		 al.add("green");
 		 al.add("White");
 		 System.out.println(al);
-		 
+		
+		 Iterator<String> ls = al.iterator();
 	 }
  
 }
