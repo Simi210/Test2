@@ -7,7 +7,7 @@ public class CreateArrayList {
 	 {
 		 ArrayList<String> al= new ArrayList<String>();
 		 al.add("Red");
-		 al.add("Orange");
+		 al.add("green");
 		 al.add("White");
 		 System.out.println(al);
 		 
